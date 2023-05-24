@@ -16,7 +16,7 @@ O Soft-Kyu-Age é uma aplicação em Java que tem como objetivo receber um núme
 ## Instruções de Uso
 
 1. Clone o repositório em sua máquina local.
-- git clone https://github.com/seu-usuario/verificador-idade.git
+- git clone [https://github.com/KyuHayato/Soft-Kyu-Age.git](https://github.com/KyuHayato/Soft-Kyu-Age.git)
 
 2. Abra o projeto em sua IDE de preferência.
 
