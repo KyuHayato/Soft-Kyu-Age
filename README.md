@@ -1,2 +1,2 @@
-# Sotf-Kyu-Age
-Sotf-Kyu-Age
+# Soft-Kyu-Age
+Soft-Kyu-Age
