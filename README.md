@@ -16,10 +16,7 @@ O Soft-Kyu-Age é uma aplicação em Java que tem como objetivo receber um núme
 ## Instruções de Uso
 
 1. Clone o repositório em sua máquina local.
-
-[![Copiar link](git clone https://github.com/seu-usuario/verificador-idade.git=flat-square)](javascript:copiarLink(); "Copiar link")
- 
-
+- git clone https://github.com/seu-usuario/verificador-idade.git
 
 2. Abra o projeto em sua IDE de preferência.
 
@@ -38,16 +35,3 @@ O Soft-Kyu-Age é uma aplicação em Java que tem como objetivo receber um núme
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
 
 
-
-<script>
-function copiarLink() {
-  const link = 'https://github.com/seu-usuario/seu-repositorio'; // Substitua pelo link do seu repositório
-  navigator.clipboard.writeText(link)
-    .then(() => {
-      alert('Link copiado com sucesso!');
-    })
-    .catch((error) => {
-      console.error('Erro ao copiar o link:', error);
-    });
-}
-</script>
